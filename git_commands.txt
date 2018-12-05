@@ -1,0 +1,10 @@
+#git init . --> initlize the currend folder as git repositry
+#git config --global user.name username ---> globally username define
+#git config --global user.email email ---> account email
+#git lfs install --> it will attach git lfs to your current project
+
+#git status ---> to see staging area
+#git add filename --> to add any changed file into staging area 
+#git add . ---> to move all files into staging area
+
+#git status ---> to see current staging

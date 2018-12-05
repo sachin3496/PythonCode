@@ -1,0 +1,6 @@
+Thu Nov 29 13:39:57 2018	Application Started at machine DESKTOP-B52F4PT	General
+    Thu Nov 29 13:40:00 2018	Login Process Initiated	General
+    Thu Nov 29 13:40:03 2018	user with acc num 1004 trying to login	login_try
+    Thu Nov 29 13:40:24 2018	Application Started at machine DESKTOP-B52F4PT	General
+    Thu Nov 29 13:40:25 2018	user with acc num 1004 has logged into system	login
+    
