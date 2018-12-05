@@ -8,3 +8,9 @@
 #git add . ---> to move all files into staging area
 
 #git status ---> to see current staging
+
+#git commit -m "message"
+
+#git remote add orign url --> to add your online repository to local
+repository 
+#git push origin master --> to upload code to github
